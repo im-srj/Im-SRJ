@@ -2,7 +2,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 <h4>A Python developer </h4>
 
-- 🔭 I’m currently working on a 
 - 🌱 I’m Interested to work on new technologies
 - 💬 Ask me about Technology
 - 📫 How to reach me: surajnaithani70@@gmail.com
@@ -20,7 +19,7 @@ src="https://img.shields.io/github/followers/Im-SRJ?logo=github&style=for-the-ba
 <h3 align="left">Frameworks and Tools:</h3>
 
 <p align="left"><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="django" width="40" height="40"/>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.django-rest-framework.org/img/logo.png" alt="drf" width="40" height="40"/> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://python.langchain.com/img/brand/wordmark-dark.png" alt="drf" width="40" height="40"/> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/512/github.png" alt="git" width="40" height="40"/> </a> </p>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.django-rest-framework.org/img/logo.png" alt="drf" width="40" height="40"/> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://python.langchain.com/img/brand/wordmark-dark.png" alt="drf" width="70" height="40"/> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/512/github.png" alt="git" width="40" height="40"/> </a> </p>
 
 
 <b>My GitHub Stats</b>
