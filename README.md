@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - 🌱 I’m Interested to work on new technologies
 - 💬 Ask me about Technology
-- 📫 How to reach me: surajnaithani70@@gmail.com
+- 📫 How to reach me: surajnaithani70@gmail.com
 - ⚡ Fun fact: Always trying to learn something new...
 
 
