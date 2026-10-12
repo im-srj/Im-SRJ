@@ -1,0 +1,22 @@
+<svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <linearGradient id="sparkGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#a855f7;stop-opacity:1">
+        <animate attributeName="stop-color" values="#a855f7;#ec4899;#a855f7" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#ec4899;stop-opacity:1">
+        <animate attributeName="stop-color" values="#ec4899;#a855f7;#ec4899" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Large sparkle -->
+  <path d="M10 3 C10.6 7.4 12.6 9.4 17 10 C12.6 10.6 10.6 12.6 10 17 C9.4 12.6 7.4 10.6 3 10 C7.4 9.4 9.4 7.4 10 3 Z" fill="url(#sparkGrad)">
+    <animate attributeName="opacity" values="0.75;1;0.75" dur="2s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Small sparkle -->
+  <path d="M18 14 C18.3 16.2 19.3 17.2 21.5 17.5 C19.3 17.8 18.3 18.8 18 21 C17.7 18.8 16.7 17.8 14.5 17.5 C16.7 17.2 17.7 16.2 18 14 Z" fill="url(#sparkGrad)">
+    <animate attributeName="opacity" values="1;0.4;1" dur="2s" begin="0.5s" repeatCount="indefinite"/>
+  </path>
+</svg>
