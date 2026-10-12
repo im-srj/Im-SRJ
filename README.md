@@ -136,7 +136,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=im-srj&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=im-srj&label=PROFILE%20VIEWS&labelColor=%23555555&countColor=%23a855f7&style=for-the-badge" alt="Profile Views"/>
 </div>
 
 <br/>
