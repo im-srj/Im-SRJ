@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  I'm a software developer with <strong>3+ years of experience in Python and Django</strong>,
+  I'm a software developer with <strong>4+ years of experience in Python and Django</strong>,
   passionate about backend engineering, AI-powered applications, and solving real-world problems.
   <br/><br/>
   Currently exploring <strong>LLMs, RAG, AI agents, Machine Learning, and Cybersecurity</strong>
